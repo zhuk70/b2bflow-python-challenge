@@ -1,5 +1,5 @@
 from supabase_service import get_contacts
-from services_zapi import send_message
+from src.zapi_service import send_message
 
 
 def main():
